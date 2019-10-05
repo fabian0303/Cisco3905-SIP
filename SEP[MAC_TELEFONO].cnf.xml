@@ -23,7 +23,7 @@
                      <sipPort>5060</sipPort>
                      <securedSipPort>5061</securedSipPort>
                   </ports>
-                  <!-- IP o dominio del servidor (OBLIGATORIO) -->
+                  <!-- IP o dominio del servidor -->
                   <processNodeName>INTRODUCE AQUI TU IP O DOMINIO</processNodeName>
                </callManager>
             </member>
@@ -98,7 +98,7 @@
          <line button="1">
             <featureID>9</featureID>
 
-            <!-- IP o dominio del servidor (OBLIGATORIO) -->
+            <!-- IP o dominio del servidor -->
             <proxy>INTRODUCE AQUI TU IP O DOMINIO</proxy>
             <port>5060</port>
             
@@ -114,7 +114,7 @@
             <!--ID de autentificacion dada por la extension del telefono en el servidor-->
             <authName>INTRODUCE AQUI EL ID DE AUTENTIFICACION DE LA EXTENSION  DADA EN EL SERVIDOR</authName>
 
-            <!--Numero de extension del telefono creada en el servidor (OBLIGATORIO) -->
+            <!--Numero de extension del telefono creada en el servidor -->
             <contact>INTRODUCE AQUI EL NUMERO DE EXTENSION DEL TELEFONO</contact>
 
             <!--Contraseña dada por la extension del telefono en el servidor -->
