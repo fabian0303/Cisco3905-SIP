@@ -111,7 +111,7 @@
             <!-- Nombre o Extension (NO APLICA NINGUN CAMBIO EN EL TELEFONO) -->
             <displayName>INTRODUCE AQUI UN NOMBRE PARA EL TELEFONO</displayName>
 
-            <!--ID de autentificacion dada por la extension del telefono en el servidor-->
+            <!--ID de autentificacion dada por la extension del telefono en el servidor -->
             <authName>INTRODUCE AQUI EL ID DE AUTENTIFICACION DE LA EXTENSION  DADA EN EL SERVIDOR</authName>
 
             <!--Numero de extension del telefono creada en el servidor -->
