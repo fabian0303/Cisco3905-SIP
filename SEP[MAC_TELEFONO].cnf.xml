@@ -101,14 +101,14 @@
             <!-- IP o dominio del servidor -->
             <proxy>INTRODUCE AQUI TU IP O DOMINIO</proxy>
             <port>5060</port>
-            
-            <!-- Nombre o Extension (NO APLICA NINGUN CAMBIO EN EL TELEFONO) -->
+
+            <!-- Nombre a mostrar en el telefono (Funciona con firmware 9.4.1 o superior) -->
             <featureLabel>INTRODUCE AQUI UN NOMBRE PARA EL TELEFONO</featureLabel>
 
             <!--Numero de extension del telefono creada en el servidor -->
             <name>INTRODUCE AQUI EL NUMERO DE EXTENSION DEL TELEFONO</name>
-            
-            <!-- Nombre a mostrar en el telefono (Funciona con firmware 9.4.1 o superior) -->
+                  
+            <!-- Nombre o Extension (NO APLICA NINGUN CAMBIO EN EL TELEFONO) -->
             <displayName>INTRODUCE AQUI UN NOMBRE PARA EL TELEFONO</displayName>
 
             <!--ID de autentificacion dada por la extension del telefono en el servidor-->
