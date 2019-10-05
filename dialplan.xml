@@ -1,0 +1,31 @@
+<DIALTEMPLATE>>
+  
+<!-- LLamada Local FIXO-->
+<TEMPLATE MATCH="2......." Timeout="0"/>  
+<TEMPLATE MATCH="3......." Timeout="0"/>
+<TEMPLATE MATCH="4......." Timeout="0"/>
+<TEMPLATE MATCH="5......." Timeout="0"/>
+
+<!-- LLamada Local movil -->
+<TEMPLATE MATCH="9........" Timeout="0"/>
+    
+<!-- LLamada LDN movil -->
+<TEMPLATE MATCH="0..9........" Timeout="0"/>
+
+<!-- LLamada 0300 -->    
+<TEMPLATE MATCH="0300*" Timeout="2"/>       
+   
+<!-- LLamada LDN FIXO -->
+<TEMPLATE MATCH="0..2......." Timeout="0"/>    
+<TEMPLATE MATCH="0..3......." Timeout="0"/>    
+<TEMPLATE MATCH="0..4......." Timeout="0"/>    
+<TEMPLATE MATCH="0..5......." Timeout="0"/> 
+
+<!-- LLamada 0800 -->
+<TEMPLATE MATCH="0800*" Timeout="2"/>
+
+<!-- LLamada DDI -->
+<TEMPLATE MATCH="00*" Timeout="3"/>  
+<TEMPLATE MATCH="*" Timeout="3"/> 
+
+</DIALTEMPLATE>
